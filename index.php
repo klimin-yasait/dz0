@@ -11,7 +11,7 @@
 
 <?php
 
-require_once ("src/functions.php");
+require_once("src/functions.php");
 
 $myArray = array(
     "Lorem ipsum dolor sit amet, consectetuer adipiscing elit.",
@@ -26,18 +26,33 @@ $myArray = array(
     "Aenean leo ligula, porttitor eu, consequat vitae, eleifend ac, enim. Aliquam lorem ante, dapibus in, viverra quis, feugiat a,"
 );
 $myBool = FALSE;
-//task1($myArray, $myBool);
+task1($myArray, $myBool);
 
+$a = '+';
+$b = rand(0, 9);
+$c = rand(0, 9);
+$d = 2.3;
+$e = rand(0, 9);
+$f = rand(0, 9);
 
+task2($a, $b, $c, $d, $e, $f);
 
-$a = '%';
-$b = rand(0,9);
-$c = rand(0,9);
-$d = rand(0,9);
-$e = rand(0,9);
-$f = rand(0,9);
+$y = rand(1, 8);
+$x = rand(1, 8);
 
-task2($a,$b,$c,$d,$e,$f);
+task3($y, $x);
+
+task4();
+
+$first = "Карл у Клары украл Кораллы";
+$second = "Две бутылки лимонада";
+
+task5($first, $second);
+
+$myfile = 'some.txt';
+file_put_contents($myfile, 'Какой-нибудь текст');
+
+task6($myfile);
 
 ?>
 

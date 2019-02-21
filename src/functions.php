@@ -9,6 +9,7 @@ function task1($myArray, $myBool)
             echo '<p>' . $myArrayString . '</p>';
         }
     }
+    echo '<br><hr><br>';
 }
 
 ;
@@ -122,7 +123,65 @@ function task2()
             echo $summ;
         }
     }
-
+    echo '<br><hr><br>';
 }
 
+;
 
+function task3($y, $x)
+{
+    $is_int_y = is_int($y);
+    $is_int_x = is_int($x);
+
+    if ($is_int_y == true & $is_int_x == true) {
+        echo '<table border=1>';
+        for ($tr = 1; $tr <= $y; $tr++) {
+            echo '<tr>';
+            for ($td = 1; $td <= $x; $td++) {
+                echo '<td>' . $tr * $td . '</td>';
+            }
+        }
+        echo '</tr></table>';
+    } else {
+        echo "Введены не целые числа";
+    }
+    echo '<br><hr><br>';
+}
+
+;
+
+function task4()
+{
+    echo date("d.m.Y H:i");
+    echo '<br>';
+    $date = "02/24/2016 0:00:00";
+    $unixDate = strtotime($date);
+    echo $unixDate;
+    echo '<br><hr><br>';
+}
+
+;
+
+function task5($first, $second)
+{
+    $first_out = str_replace('К', 'к', $first);
+    echo $first_out . '<br>';
+    $second_out = str_replace('Две', 'Три', $second);
+    echo $second_out;
+    echo '<br><hr><br>';
+}
+
+;
+
+function task6($file_to_read)
+{
+    $read_this = fopen($file_to_read, 'r') or die("не удалось открыть файл");
+    while (!feof($read_this)) {
+        $str = htmlentities(fgets($read_this));
+        echo $str;
+    }
+    fclose($read_this);
+    echo '<br><hr><br>';
+}
+
+;
