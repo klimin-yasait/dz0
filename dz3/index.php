@@ -9,13 +9,23 @@
 </head>
 <body>
 
-<h2 style="display: block; width: 100%; text-align: center;">Все домашние задания</h2>
-<ul>
-    <li><a href="dz0/">ДЗ 0</a></li>
-    <li><a href="dz1/">ДЗ 1</a></li>
-    <li><a href="dz2/">ДЗ 2</a></li>
-    <li><a href="dz3/">ДЗ 3</a></li>
-</ul>
+<p><a href="#" onclick="history.back();">К оглавлению</a></p>
+
+<?php
+
+require_once("src/functions.php");
+
+$smpl_xml=simplexml_load_file('data.xml');
+task1($smpl_xml);
+
+task2();
+
+task3();
+
+task4();
+
+
+?>
 
 </body>
 </html>
