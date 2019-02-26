@@ -1,7 +1,76 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="3d44bcea-4e46-497a-b330-815ca872e33e" name="Default Changelist" comment="" />
+    <list default="true" id="3d44bcea-4e46-497a-b330-815ca872e33e" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources.local.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources/278f1ee0-c781-4363-8ee5-3dace70988ed.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vp1/css/main.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vp1/css/vendors.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vp1/fonts/Gagalin-Regular.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vp1/fonts/Lifehack-Medium.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vp1/fonts/Ubuntu-Light.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vp1/fonts/Ubuntu-Medium.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vp1/fonts/ubuntu-b-webfont.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vp1/form.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vp1/functions.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vp1/img/bg/best.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vp1/img/bg/footer.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vp1/img/bg/hero-bg.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vp1/img/bg/menu.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vp1/img/bg/menu/diets.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vp1/img/bg/menu/meats.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vp1/img/bg/menu/vegans.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vp1/img/bg/order.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vp1/img/bg/team.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vp1/img/content/burger.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vp1/img/content/burgers/1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vp1/img/content/burgers/2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vp1/img/content/burgers/3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vp1/img/content/burgers/4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vp1/img/content/reviews/1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vp1/img/content/reviews/2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vp1/img/content/reviews/3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vp1/img/content/reviews/4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vp1/img/content/reviews/5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vp1/img/content/reviews/6.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vp1/img/content/reviews/7.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vp1/img/content/reviews/8.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vp1/img/content/teammate.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vp1/img/icons/_svg-sprite.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vp1/img/icons/arrow-scroll.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vp1/img/icons/beef.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vp1/img/icons/buns.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vp1/img/icons/burger.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vp1/img/icons/check.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vp1/img/icons/cheese.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vp1/img/icons/close.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vp1/img/icons/cucumber.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vp1/img/icons/drops.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vp1/img/icons/fb.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vp1/img/icons/hand.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vp1/img/icons/inst.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vp1/img/icons/kkal.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vp1/img/icons/logo.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vp1/img/icons/map-marker.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vp1/img/icons/mark.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vp1/img/icons/mark.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vp1/img/icons/meat.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vp1/img/icons/natural.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vp1/img/icons/phone.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vp1/img/icons/salad.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vp1/img/icons/sauce.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vp1/img/icons/twitter.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vp1/img/icons/vk.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vp1/img/sprite/sprite.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vp1/index.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vp1/init.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vp1/js/main.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vp1/js/vendors.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vp1/vp1-panel.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -49,43 +118,135 @@
         <item name="my_blog: schema" type="76f4a085:MysqlImplModel$Schema" />
         <item name="users: table" type="285a2a93:MysqlImplModel$Table" />
       </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="vp1@localhost" type="feb32156:DbDataSourceImpl" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="vp1@localhost" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="vp1@localhost" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="vp1: schema" type="76f4a085:MysqlImplModel$Schema" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="vp1@localhost" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="vp1: schema" type="76f4a085:MysqlImplModel$Schema" />
+        <item name="orders: table" type="285a2a93:MysqlImplModel$Table" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="vp1@localhost" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="vp1: schema" type="76f4a085:MysqlImplModel$Schema" />
+        <item name="users: table" type="285a2a93:MysqlImplModel$Table" />
+      </path>
     </expand>
     <select />
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/index.php">
+        <entry file="file://$PROJECT_DIR$/README.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="34">
+                <caret line="2" column="58" selection-start-line="2" selection-start-column="58" selection-end-line="2" selection-end-column="58" />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/vp1/css/main.min.css">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/vp1/index.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="187">
-              <caret line="11" column="9" selection-start-line="11" selection-start-column="9" selection-end-line="11" selection-end-column="9" />
+            <state relative-caret-position="204">
+              <caret line="12" column="12" lean-forward="true" selection-start-line="12" selection-start-column="12" selection-end-line="12" selection-end-column="12" />
+              <folding>
+                <element signature="n#style#0;n#div#0;n#div#0;n#li#0;n#ul#0;n#section#5;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#0;n#div#0;n#li#1;n#ul#0;n#section#5;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#0;n#div#0;n#li#2;n#ul#0;n#section#5;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#0;n#div#0;n#li#3;n#ul#0;n#section#5;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#0;n#div#0;n#li#4;n#ul#0;n#section#5;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#0;n#div#0;n#li#5;n#ul#0;n#section#5;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#0;n#div#0;n#li#6;n#ul#0;n#section#5;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#0;n#div#0;n#li#7;n#ul#0;n#section#5;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="das://278f1ee0-c781-4363-8ee5-3dace70988ed/schema/vp1/table/users">
+          <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+            <state>
+              <filtering enabled="true" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="das://278f1ee0-c781-4363-8ee5-3dace70988ed/schema/vp1/table/orders">
+          <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+            <state>
+              <filtering enabled="true" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/vp1/init.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="289">
+              <caret line="17" column="1" selection-end-line="17" selection-end-column="1" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/db/278f1ee0-c781-4363-8ee5-3dace70988ed/console.sql">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret selection-end-column="71" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/vp1/functions.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="238">
+              <caret line="14" column="18" lean-forward="true" selection-start-line="14" selection-start-column="18" selection-end-line="14" selection-end-column="18" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/dz0/index.php">
+        <entry file="file://$PROJECT_DIR$/vp1/form.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="238">
-              <caret line="14" column="27" selection-start-line="14" selection-start-column="27" selection-end-line="14" selection-end-column="27" />
+            <state relative-caret-position="186">
+              <caret line="27" column="49" selection-start-line="27" selection-start-column="49" selection-end-line="27" selection-end-column="49" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/dz0/functions.php">
+        <entry file="file://$PROJECT_DIR$/vp1/vp1-panel.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="187">
-              <caret line="11" column="1" selection-end-line="11" selection-end-column="1" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/dz1/dz1-1.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="187">
-              <caret line="11" selection-start-line="11" selection-end-line="11" selection-end-column="61" />
+            <state>
+              <caret column="5" selection-start-column="5" selection-end-column="5" />
             </state>
           </provider>
         </entry>
@@ -97,6 +258,7 @@
       <find>$is_math = strpos($operators, $first_arg);</find>
       <find>som</find>
       <find>data</find>
+      <find>review__photo</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -113,7 +275,6 @@
         <option value="$PROJECT_DIR$/dz1-5.php" />
         <option value="$PROJECT_DIR$/dz1-6.php" />
         <option value="$PROJECT_DIR$/data.xml" />
-        <option value="$APPLICATION_CONFIG_DIR$/consoles/.datagrid/cell" />
         <option value="$APPLICATION_CONFIG_DIR$/consoles/db/2f54f7a3-e5c5-4a91-b054-5586632c1ffe/console.sql" />
         <option value="$PROJECT_DIR$/src/functions.php" />
         <option value="$PROJECT_DIR$/dz0.php" />
@@ -131,12 +292,21 @@
         <option value="$PROJECT_DIR$/dz3/index.php" />
         <option value="$PROJECT_DIR$/dz1/index.php" />
         <option value="$PROJECT_DIR$/index.php" />
-        <option value="$PROJECT_DIR$/README.md" />
         <option value="$PROJECT_DIR$/tasks/dz2/index.php" />
         <option value="$PROJECT_DIR$/tasks/dz3/index.php" />
         <option value="$PROJECT_DIR$/tasks/dz3/src/functions.php" />
         <option value="$PROJECT_DIR$/dz0/functions.php" />
         <option value="$PROJECT_DIR$/dz0/index.php" />
+        <option value="$PROJECT_DIR$/vp1/index.html" />
+        <option value="$APPLICATION_CONFIG_DIR$/consoles/.datagrid/cell" />
+        <option value="$PROJECT_DIR$/vp1/init.php" />
+        <option value="$APPLICATION_CONFIG_DIR$/consoles/db/278f1ee0-c781-4363-8ee5-3dace70988ed/console.sql" />
+        <option value="$PROJECT_DIR$/vp1/admin.php" />
+        <option value="$PROJECT_DIR$/vp1/functions.php" />
+        <option value="$PROJECT_DIR$/vp1/index.php" />
+        <option value="$PROJECT_DIR$/vp1/vp1-panel.php" />
+        <option value="$PROJECT_DIR$/README.md" />
+        <option value="$PROJECT_DIR$/vp1/form.php" />
       </list>
     </option>
   </component>
@@ -162,7 +332,7 @@
             <path>
               <item name="some-new.ru" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
               <item name="" type="442cc68d:ScopeViewTreeModel$RootNode" />
-              <item name="dz0" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="vp1" type="9f88c78c:ScopeViewTreeModel$FileNode" />
             </path>
           </expand>
           <select />
@@ -174,18 +344,18 @@
   <component name="PropertiesComponent">
     <property name="DatabaseDriversLRU" value="mysql" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="database.console.LAST_STATE" value="true" />
+    <property name="database.console.LAST_STATE" value="false" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="settings.editor.selected.configurable" value="preferences.sourceCode.PHP" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\OSPanel\domains\some-new.ru\vp1" />
       <recent name="C:\OSPanel\domains\some-new.ru" />
       <recent name="C:\OSPanel\domains\some-new.ru\tasks" />
       <recent name="C:\OSPanel\domains\some-new.ru\tasks\dz3" />
       <recent name="C:\OSPanel\domains\some-new.ru\dz3" />
-      <recent name="C:\OSPanel\domains\some-new.ru\dz3\src" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\OSPanel\domains\some-new.ru\dz1" />
@@ -224,7 +394,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="92101000" />
+    <option name="totallyTimeSpent" value="116718000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
@@ -245,11 +415,11 @@
       <window_info anchor="bottom" id="Version Control" order="9" />
       <window_info anchor="bottom" id="Terminal" order="10" visible="true" weight="0.32936078" />
       <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
-      <window_info active="true" anchor="bottom" id="Database Console" order="12" visible="true" weight="0.32936078" />
+      <window_info anchor="bottom" id="Database Console" order="12" weight="0.32936078" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="right" id="Database" order="3" weight="0.32995737" />
+      <window_info anchor="right" id="Database" order="3" visible="true" weight="0.32995737" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -385,16 +555,6 @@
     <entry file="file://$PROJECT_DIR$/some.txt">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="17">
-            <caret line="1" column="49" selection-start-line="1" selection-start-column="49" selection-end-line="1" selection-end-column="49" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/tasks/dz2/src/functions.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="34">
@@ -462,6 +622,97 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="238">
           <caret line="14" column="27" selection-start-line="14" selection-start-column="27" selection-end-line="14" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1122" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vp1/css/main.min.css">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="das://278f1ee0-c781-4363-8ee5-3dace70988ed/schema/vp1/table/users">
+      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+        <state>
+          <filtering enabled="true" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="das://278f1ee0-c781-4363-8ee5-3dace70988ed/schema/vp1/table/orders">
+      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+        <state>
+          <filtering enabled="true" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/db/278f1ee0-c781-4363-8ee5-3dace70988ed/console.sql">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-column="71" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vp1/admin.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" column="12" lean-forward="true" selection-start-line="1" selection-start-column="4" selection-end-line="1" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vp1/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="12" column="12" lean-forward="true" selection-start-line="12" selection-start-column="12" selection-end-line="12" selection-end-column="12" />
+          <folding>
+            <element signature="n#style#0;n#div#0;n#div#0;n#li#0;n#ul#0;n#section#5;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#0;n#li#1;n#ul#0;n#section#5;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#0;n#li#2;n#ul#0;n#section#5;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#0;n#li#3;n#ul#0;n#section#5;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#0;n#li#4;n#ul#0;n#section#5;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#0;n#li#5;n#ul#0;n#section#5;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#0;n#li#6;n#ul#0;n#section#5;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#0;n#li#7;n#ul#0;n#section#5;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vp1/vp1-panel.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="5" selection-start-column="5" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vp1/init.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="17" column="1" selection-end-line="17" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="34">
+            <caret line="2" column="58" selection-start-line="2" selection-start-column="58" selection-end-line="2" selection-end-column="58" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vp1/functions.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="14" column="18" lean-forward="true" selection-start-line="14" selection-start-column="18" selection-end-line="14" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vp1/form.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="186">
+          <caret line="27" column="49" selection-start-line="27" selection-start-column="49" selection-end-line="27" selection-end-column="49" />
         </state>
       </provider>
     </entry>
