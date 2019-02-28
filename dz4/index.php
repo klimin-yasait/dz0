@@ -95,35 +95,11 @@ include_once 'InterfaceTariff.php';
 include_once 'AbstractТariff.php';
 include_once 'BaseTariff.php';
 
-$tariff = new calculate();
+$tariff = new BaseTariff();
 
 if ($calculate instanceof InterfaceTariff){
-    $tariff->calculate();
+    $tariff->calculate($data['tariff'],$data['km'],$data['time'],$data['age']);
 }
-
-class Simple
-{
-
-    protected $data = [];
-
-    public function setVariable($km,$time,$age)
-    {
-        $this->data['km'] = $km;
-        $this->data['time'] = $time;
-        $this->data['age'] = $age;
-    }
-
-    public function getData()
-    {
-        return $this->data;
-    }
-}
-
-$object = new Simple();
-$object->setVariable($data['km'],$data['time'],$data['age']);
-
-echo "<pre>";
-print_r($object);
 
 ?>
 
