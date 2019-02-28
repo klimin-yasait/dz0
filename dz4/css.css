@@ -1,0 +1,65 @@
+body,html{
+    padding: 0;
+    margin: 0;
+    border: 0;
+    width: 100%;
+    height: 100vh;
+    position: relative;
+    box-sizing: border-box;
+}
+body,form{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+body{
+    flex-direction: row;
+}
+input{
+    margin-top: 5px;
+    padding:5px;
+}
+select{
+    padding: 5px;
+}
+.tariff-grid{
+    width: 500px;
+    font-family: Roboto;
+    font-size: 14px;
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    justify-content: flex-start;
+    flex-wrap: wrap;
+    margin-top: 30px;
+}
+.tarif-item{
+    width: 100%;
+    background: #efefef;
+    border: 5px solid #fff;
+    padding: 10px;
+    display: block;
+    box-sizing: border-box;
+}
+.tarif-item-title{
+    display: block;
+    padding: 5px;
+    font-size: 16px;
+    font-weight: bold;
+    text-align: center;
+    background: #bbb;
+}
+.allert-red, .allert-gray, .allert-green{
+    background: #ff8787;
+    padding: 5px;
+    text-align: center;
+    font-weight: bold;
+    text-transform: uppercase;
+}
+.allert-gray{
+    background: #fff;
+}
+.allert-green{
+    background: #bae89c;
+}
