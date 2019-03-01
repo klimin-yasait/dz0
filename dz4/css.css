@@ -50,15 +50,15 @@ select{
     text-align: center;
     background: #bbb;
 }
-.allert-red, .allert-gray, .allert-green{
+.allert-red, .allert-orange, .allert-green{
     background: #ff8787;
     padding: 5px;
     text-align: center;
     font-weight: bold;
     text-transform: uppercase;
 }
-.allert-gray{
-    background: #fff;
+.allert-orange{
+    background: #ffa84e;
 }
 .allert-green{
     background: #bae89c;
