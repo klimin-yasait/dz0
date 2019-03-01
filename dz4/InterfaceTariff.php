@@ -2,5 +2,5 @@
 
 interface InterfaceTariff
 {
-    public function calculate();
+    public function isAge();
 }

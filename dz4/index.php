@@ -25,10 +25,10 @@
 
 <?php
 
-$data['tariff'] = $_POST["tariff"];
-$data['km'] = $_POST["km"];
-$data['time'] = $_POST["time"];
-$data['age'] = $_POST["age"];
+$tariff = $_POST["tariff"];
+$km = $_POST["km"];
+$time = $_POST["time"];
+$age = $_POST["age"];
 
 ?>
 
@@ -36,10 +36,10 @@ $data['age'] = $_POST["age"];
 
     <div class="tarif-item tarif-item_attention">
         <?php
-        if ($data['age']) {
-            if ($data['age'] < 18 || $data['age'] > 65) {
+        if ($age) {
+            if ($age < 18 || $age > 65) {
                 echo "<div class='allert-red'>Водитель не подходит по возрасту!</div>";
-            } elseif ($data['age'] >= 18 || $data['age'] <= 65) {
+            } elseif ($age >= 18 || $age <= 65) {
                 echo "<div class='allert-green'>Возрастной ценз пройден</div>";
             }
         } else {
@@ -88,17 +88,21 @@ $data['age'] = $_POST["age"];
 
 <?php
 
-echo "<pre>";
-var_dump($data);
-
 include_once 'InterfaceTariff.php';
 include_once 'AbstractТariff.php';
 include_once 'BaseTariff.php';
 
 $tariff = new BaseTariff();
 
-if ($calculate instanceof InterfaceTariff){
-    $tariff->calculate($data['tariff'],$data['km'],$data['time'],$data['age']);
+$tariff->isAge($age);
+$tariff->calculate($tariff,$km,$time,$age);
+
+if ($tariff instanceof BaseTariff){
+    $tariff->isAge($age);
+    $tariff->calculate($tariff,$km,$time,$age);
+    echo  $tariff->$ageVerification;
+} else {
+    echo  $tariff->$ageVerification;
 }
 
 ?>

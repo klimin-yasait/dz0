@@ -2,13 +2,13 @@
 
 class BaseTariff extends AbstractТariff
 {
-
     protected $result;
 
-    public function claculate($setTariff,$setKm,$setTime,$setAge){
-        $result = $setKm * $setTime;
+    public function claculate($tariff,$km,$time,$age){
+        $result = $km * $time;
         return $result;
-        echo "$setTariff,$setKm,$setTime,$setAg";
+        echo "$tariff,$km,$time,$ag <br>";
+        echo "$result";
     }
 
     public function calculate()

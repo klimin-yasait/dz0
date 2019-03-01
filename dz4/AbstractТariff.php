@@ -2,27 +2,22 @@
 
 abstract class AbstractТariff
 {
-    protected $setTariff;
-    protected $setKm;
-    protected $setTime;
-    protected $setAge;
+
     protected $ageVerification;
 
-    public function setVariable($tariff,$km,$time,$age)
+    public function isAge($age)
     {
-        $this->setTariff = $tariff;
-        $this->setKm = $km;
-        $this->setTime = $time;
-        $this->setAge = $age;
-
-        if ($age) {
+        if ($age != 0) {
             if ($age < 18 || $age > 65) {
-                return $this->ageVerification = "<div class='allert-red'>Водитель не подходит по возрасту!</div>";
+                echo "$age <br>";
+                $this->ageVerification = "<div class='allert-red'>Водитель не подходит по возрасту!</div>";
             } elseif ($age >= 18 || $age <= 65) {
-                return $this->ageVerification = "<div class='allert-green'>Возрастной ценз пройден</div>";
+                echo "$age <br>";
+                $this->ageVerification = "<div class='allert-green'>Возрастной ценз пройден</div>";
             }
         } else {
             return $this->ageVerification = "<div class='allert-gray'>Возраст не был введен</div>";
+            echo "введи возраст";
         }
     }
 
