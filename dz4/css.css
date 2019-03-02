@@ -34,13 +34,46 @@ select{
     flex-wrap: wrap;
     margin-top: 30px;
 }
-.tarif-item{
+.tarif-item, .some-info{
     width: 100%;
     background: #efefef;
     border: 5px solid #fff;
     padding: 10px;
     display: block;
     box-sizing: border-box;
+    font-family: Roboto;
+    font-size: 14px;
+}
+.tarif-item-options{
+    padding: 0;
+    list-style-type: none;
+    margin:0;
+}
+.tarif-item-option{
+    padding: 5px;
+}
+.tarif-item-option:nth-child(2n){
+    background: rgba(0,0,0,.05);
+}
+.itog{
+    padding: 5px;
+    background: #da8237;
+    text-align: center;
+    font-weight: bold;
+    color: #fff;
+}
+.my-checkboxes{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-around;
+    padding: 5px;
+}
+.my-checkboxes input, .my-checkboxes label{
+    float:left;
+    margin-right: 5px;
+    font-family: Roboto;
+    font-size: 14px;
 }
 .tarif-item-title{
     display: block;
@@ -48,7 +81,8 @@ select{
     font-size: 16px;
     font-weight: bold;
     text-align: center;
-    background: #bbb;
+    background: #305479;
+    color: #fff;
 }
 .allert-red, .allert-orange, .allert-green{
     background: #ff8787;
@@ -62,4 +96,21 @@ select{
 }
 .allert-green{
     background: #bae89c;
+}
+.data-info{
+    width: 100%;
+}
+.data-info-list{
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    justify-content: space-evenly;
+}
+.data-info-list, .data-info-list-item{
+    padding: 0;
+    margin: 0;
+    list-style-type: none;
+}
+.data-info-list-item{
+    padding: 10px;
 }

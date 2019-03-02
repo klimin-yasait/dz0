@@ -2,6 +2,9 @@
 
 class StudentTariff extends AbstractТariff
 {
+
+    use TraitGps;
+
     protected $result;
     protected $kmPrice = 4;
     protected $timePrice = 1;
@@ -12,8 +15,8 @@ class StudentTariff extends AbstractТariff
         $time = (int)$time;
         $age = (int)$age;
 
-        if ($age < 25){
-            $this->result = ($this->kmPrice * $km) + ($this->timePrice * $time) * $this->increaser;
+        if ($age <= 25){
+            $this->result = (($this->kmPrice * $km) + ($this->timePrice * $time) * $this->increaser) * $this->subZero + $this->gpsSumm;
         } else {
             $this->result = 0;
         }
@@ -21,6 +24,6 @@ class StudentTariff extends AbstractТariff
 
     public function getStudentCalculate()
     {
-        return "$this->result $this->increaser";
+        return $this->result;
     }
 }
