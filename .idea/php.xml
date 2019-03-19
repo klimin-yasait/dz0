@@ -5,5 +5,21 @@
       <PhpCSConfiguration tool_path="$USER_HOME$/AppData/Roaming/Composer/vendor/bin/phpcs" />
     </phpcs_settings>
   </component>
+  <component name="PhpIncludePathManager">
+    <include_path>
+      <path value="$PROJECT_DIR$/eloquent/vendor/symfony/contracts" />
+      <path value="$PROJECT_DIR$/eloquent/vendor/composer" />
+      <path value="$PROJECT_DIR$/eloquent/vendor/illuminate/database" />
+      <path value="$PROJECT_DIR$/eloquent/vendor/illuminate/contracts" />
+      <path value="$PROJECT_DIR$/eloquent/vendor/illuminate/support" />
+      <path value="$PROJECT_DIR$/eloquent/vendor/nesbot/carbon" />
+      <path value="$PROJECT_DIR$/eloquent/vendor/doctrine/inflector" />
+      <path value="$PROJECT_DIR$/eloquent/vendor/symfony/translation" />
+      <path value="$PROJECT_DIR$/eloquent/vendor/symfony/polyfill-mbstring" />
+      <path value="$PROJECT_DIR$/eloquent/vendor/paragonie/random_compat" />
+      <path value="$PROJECT_DIR$/eloquent/vendor/illuminate/container" />
+      <path value="$PROJECT_DIR$/eloquent/vendor/danielstjules/stringy" />
+    </include_path>
+  </component>
   <component name="PhpProjectSharedConfiguration" php_language_level="7.2" />
 </project>
